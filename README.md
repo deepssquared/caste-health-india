@@ -1,4 +1,4 @@
-# ReadME
+# Caste and Health in India
 
 The exposure image file depicts the distribution of scheduled castes and tribes across India (based on the data from the National Family Health Survey). Statistically significant clustering is also included of areas with high and low proportions of scheduled castes and tribes. The map and data are at district levels.
 
