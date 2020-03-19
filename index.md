@@ -4,15 +4,10 @@
 
 [Background](#BACKGROUND)
 
-[Definition of Caste](#Definition of Caste)
-
-[Caste in India](#Caste in India)
-[Caste as a Determinant of Health](#Caste as a Determinant of Health)
-[Infant and Child Health Outcomes](#Infant and Child Health Outcomes)
-[Adult Health Outcomes](#Adult Health Outcomes)
-[Institutional Barriers](#Institutional Barriers)
 [Methods] (#METHODS)
+
 [Visualizations] (#VISUALIZATIONS)
+
 [Conclusion] (#CONCLUSION)
 
 ## BACKGROUND:
