@@ -64,12 +64,14 @@ The model1 file depicts the results of a geographically weighted regression mode
 ### Descriptive Statistics
 
 ![eda](image001.png)
+
 ![eda2](image002.png)
 
 
 ### Models
 
 ![model1](image004.png)
+
 ![model2](image006.png)
 
 
