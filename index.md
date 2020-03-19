@@ -61,6 +61,24 @@ The model1 file depicts the results of a geographically weighted regression mode
 
 ![TB](model1_slope.png)
 
+### Descriptive Statistics
+
+![eda](image001.png)
+![eda2](image002.png)
+
+
+### Models
+
+![model1](image004.png)
+![model2](image006.png)
+
+
+### Model BiVariate Analysis
+
+![Bivariate](image007.png)
+
+### Model Comparison
+
 
 | Model | Outcome                | R-Squared (Global Model) | Caste proportion coefficient (Global Model) | p-value caste proportion coefficient (Global Model) | Moran’s I (bivariate analysis) | p-value of  (bivariate analysis) |
 |-------|------------------------|--------------------------|---------------------------------------------|-----------------------------------------------------|--------------------------------|----------------------------------|
