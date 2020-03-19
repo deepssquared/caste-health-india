@@ -2,17 +2,17 @@
 
 ## TABLE OF CONTENTS
 
-[Background](#BACKGROUND)
+[Background](#Background)
 
-[Methods](#METHODS)
+[Methods](#Methods)
 
-[Visualizations](#VISUALIZATIONS)
+[Visualizations](#Visualizations)
 
-[Conclusion](#CONCLUSION)
+[Conclusion](#Conclusion)
 
-[References](#REFERENCES)
+[References](#References)
 
-# BACKGROUND:
+## BACKGROUND:
 As the second-most populous nation in the world, India has made significant strides in both economic growth and health care since its establishment in 1947. Poverty rates have decreased due to anti-poverty interventions, and the average life expectancy is currently at approximately 69 years (1). While India is home to some of the best medical centers, such as the Fortis Hospital in Bangalore which has been included in global hospital rankings (2), these institutions are not a complete representation of the Indian healthcare system. A closer look at health indicators reveals a sharp divide in quality indicators along social boundaries. Low-income Indians often receive poor quality healthcare and lack access to more advanced services (3). While cities experience increased economic growth, resulting in improved healthcare services, rural areas lack health care workers and necessary infrastructure (4). Key social determinants result in the heterogeneity of health outcomes of India, with various stakeholders at play.   
  
 However, among the health inequities in India, none is so historically-ingrained and replicated as caste. While the caste-system was abolished and caste-based discrimination criminalized, it continues to impact health with regards to social mobility and opportunities (5). Even today, women in an “untouchable” caste have a lower life expectancy and reduced healthcare access compared to their upper-caste counterparts (6,7). While both caste and race are socially ascribed dimensions used to stratify individuals, caste, unlike race, is generationally inherited (8). In this project, I sought to determine whether caste was a significant predictor of three health outcomes: TB, anemia, and health-insured status, when controlling for age and wealth index and accounting for spatial factors.
