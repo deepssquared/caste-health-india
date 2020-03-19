@@ -62,6 +62,11 @@ The model1 file depicts the results of a geographically weighted regression mode
 ![TB](model1_slope.png)
 
 
+| Model | Outcome                | R-Squared (Global Model) | Caste proportion coefficient (Global Model) | p-value caste proportion coefficient (Global Model) | Moran’s I (bivariate analysis) | p-value of  (bivariate analysis) |
+|-------|------------------------|--------------------------|---------------------------------------------|-----------------------------------------------------|--------------------------------|----------------------------------|
+| 1     | Tuberculosis           | 0.133709                 | 0.00265737                                  | <0.0001*                                            | 0.203                          | 0.001*                           |
+| 2     | Having a health scheme | 0.259311                 | 0.226908                                    | <0.0001*                                            | 0.134                          | 0.001*                           |
+| 3     | Anemia                 | 0.132751                 | -0.130669                                   | <0.0001*                                            | -0.211                         | 0.001*                           |
 
 ## CONCLUSION:
 ### Discussion:
