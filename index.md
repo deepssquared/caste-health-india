@@ -75,7 +75,7 @@ Future studies should disaggregate data, include population density as a variabl
 
 ## REFERENCES:
 
-1. 	GHO | Key Country Indicators | India - key indicators [Internet]. WHO. [cited 2019 Jan 5]. Available from: http://apps.who.int/gho/data/node.cco.ki-IND?lang=en
+1. 	GHO | Key Country Indicators | India - key indicators [Internet]. WHO. [cited 2019 Jan 5]. Available from http://apps.who.int/gho/data/node.cco.ki-IND?lang=en
 2. 	Largest Group of Hospitals in India for Public Health care Services [Internet]. Fortis Healthcare Limited. [cited 2019 Jan 5]. Available from: https://www.fortishealthcare.com/about-us
 3. 	Mohanan M, Hay K, Mor N. Quality Of Health Care In India: Challenges, Priorities, And The Road Ahead. Health Aff (Millwood). 2016 Oct 1;35(10):1753–8. 
 4. 	BARU R, ACHARYA A, ACHARYA S, KUMAR AKS, NAGARAJ K. Inequities in Access to Health Services in India: Caste, Class and Region. Econ Polit Wkly. 2010;45(38):49–58. 
