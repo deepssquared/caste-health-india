@@ -4,11 +4,11 @@
 
 [Background](#BACKGROUND)
 
-[Methods] (#METHODS)
+[Methods](#METHODS)
 
-[Visualizations] (#VISUALIZATIONS)
+[Visualizations](#VISUALIZATIONS)
 
-[Conclusion] (#CONCLUSION)
+[Conclusion](#CONCLUSION)
 
 ## BACKGROUND:
 As the second-most populous nation in the world, India has made significant strides in both economic growth and health care since its establishment in 1947. Poverty rates have decreased due to anti-poverty interventions, and the average life expectancy is currently at approximately 69 years (1). While India is home to some of the best medical centers, such as the Fortis Hospital in Bangalore which has been included in global hospital rankings (2), these institutions are not a complete representation of the Indian healthcare system. A closer look at health indicators reveals a sharp divide in quality indicators along social boundaries. Low-income Indians often receive poor quality healthcare and lack access to more advanced services (3). While cities experience increased economic growth, resulting in improved healthcare services, rural areas lack health care workers and necessary infrastructure (4). Key social determinants result in the heterogeneity of health outcomes of India, with various stakeholders at play.   
